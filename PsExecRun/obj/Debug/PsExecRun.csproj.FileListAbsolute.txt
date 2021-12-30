@@ -1,0 +1,38 @@
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\bin\Debug\PsExecRun.exe.config
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\bin\Debug\PsExecRun.exe
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\bin\Debug\PsExecRun.pdb
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\obj\Debug\PsExecRun.Form1.resources
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\obj\Debug\PsExecRun.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\obj\Debug\PsExecRun.csproj.GenerateResource.cache
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\obj\Debug\PsExecRun.csproj.CoreCompileInputs.cache
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\obj\Debug\PsExecRun.exe
+C:\Users\philip.calugcugan\Desktop\ScreenCap\PsExecRun\obj\Debug\PsExecRun.pdb
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\bin\Debug\PsExecRun.exe.config
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\bin\Debug\PsExecRun.exe
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\bin\Debug\PsExecRun.pdb
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\obj\Debug\PsExecRun.csprojAssemblyReference.cache
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\obj\Debug\PsExecRun.Form1.resources
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\obj\Debug\PsExecRun.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\obj\Debug\PsExecRun.csproj.GenerateResource.cache
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\obj\Debug\PsExecRun.csproj.CoreCompileInputs.cache
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\obj\Debug\PsExecRun.exe
+C:\Users\philip.calugcugan\Desktop\TRASH DESKTOP\ScreenCap\PsExecRun\obj\Debug\PsExecRun.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\bin\Debug\PsExecRun.exe.config
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\bin\Debug\PsExecRun.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\bin\Debug\PsExecRun.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.csprojResolveAssemblyReference.cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.Form1.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.Properties.Resources.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.csproj.GenerateResource.Cache
+C:\kykt\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.csprojAssemblyReference.cache
+C:\kykt\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.exe
+C:\kykt\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.pdb
+C:\kykt\Screen Capture IP\PsExecRun\bin\Debug\PsExecRun.exe.config
+C:\kykt\Screen Capture IP\PsExecRun\bin\Debug\PsExecRun.exe
+C:\kykt\Screen Capture IP\PsExecRun\bin\Debug\PsExecRun.pdb
+C:\kykt\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.Form1.resources
+C:\kykt\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.Properties.Resources.resources
+C:\kykt\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.csproj.GenerateResource.cache
+C:\kykt\Screen Capture IP\PsExecRun\obj\Debug\PsExecRun.csproj.CoreCompileInputs.cache
